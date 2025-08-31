@@ -32,6 +32,7 @@ Is a lib for java minecraft plugins to simplify Folia support implementation
 |  WorldEdit (Unstable Fork)   |        [GitHub](https://github.com/Anon8281/WorldEdit)        |
 |      SuperVanish (Fork)      |   [GitHub](https://github.com/ewof/SuperVanish/tree/folia)    |
 |    TownyWaypoints (Fork)     |       [GitHub](https://github.com/ewof/TownyWaypoints)        |
+|           GravesX            |       [GitHub](https://github.com/Legoman99573/GravesX)       |
 
 ## How to use scheduler?
 
